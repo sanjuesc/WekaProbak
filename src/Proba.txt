@@ -1,0 +1,20 @@
+4 mar. 2021 16:24:50
+Erabilitako argumentuak
+balance-scale.arff src/ src/Proba.txt 
+kFoldValidation egingo da orain: 
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 283   0   5 |   a = L
+  21   0  28 |   b = B
+   4   0 284 |   c = R
+
+NaN
+%70 hold out egingo da orain: 
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+ 82  0  2 |  a = L
+  8  0 12 |  b = B
+  4  0 80 |  c = R
+NaN

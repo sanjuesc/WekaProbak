@@ -1,0 +1,3 @@
+module Proba {
+	requires weka;
+}
